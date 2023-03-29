@@ -1,6 +1,6 @@
 # Document Query System
 
-This Python script allows users to query information from a given PDF document using the GPT-4 language model. The system first reads and processes the document, then embeds the text using OpenAI Embeddings, and finally saves the embeddings as a pickle file. Users can continuously query the document until they choose to exit.
+This Python script allows users to query information from a given PDF document. The system first reads and processes the document, then embeds the text using OpenAI Embeddings, and finally saves the embeddings as a pickle file. Users can continuously query the document until they choose to exit.
 
 ## Features
 
@@ -13,7 +13,10 @@ This Python script allows users to query information from a given PDF document u
 ## Installation
 
 Before running the script, ensure you have the necessary libraries installed. You can do this by running the following command in your terminal:
+
+```bash
 pip install -r requirements.txt
+```
 
 ## Environment Setup
 
@@ -28,7 +31,7 @@ export OPENAI_API_KEY="..."
 ## Usage
 Run the python file as follow:
 ```bash
-python3 query_pdf.py
+python query_pdf.py
 ```
 
-Enter the pdf name you want to process, without the .pdf extension. Start querying the pdf by asking questions about it in natural language!
+Choose a pdf file from your computer, and start querying the pdf by asking questions about it in natural language!
