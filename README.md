@@ -13,7 +13,10 @@ This Python script allows users to query information from a given PDF document u
 ## Installation
 
 Before running the script, ensure you have the necessary libraries installed. You can do this by running the following command in your terminal:
+
+```bash
 pip install -r requirements.txt
+```
 
 ## Environment Setup
 
