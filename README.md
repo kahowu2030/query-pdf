@@ -34,4 +34,4 @@ Run the python file as follow:
 python query_pdf.py
 ```
 
-Choose a pdf file from your computer, and start querying the pdf by asking questions about it in natural language!
+Enter the pdf name you want to process, without the .pdf extension. Start querying the pdf by asking questions about it in natural language!
