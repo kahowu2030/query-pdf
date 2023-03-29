@@ -19,10 +19,7 @@ pip install -r requirements.txt
 ```
 
 ## Environment Setup
-
-Using Document Query System will usually require integrations with one or more model providers, data stores, apis, etc.
-
-We will then need to set the environment variable in the terminal.
+Set your OpenAI environment variable
 
 ```bash
 export OPENAI_API_KEY="..."
