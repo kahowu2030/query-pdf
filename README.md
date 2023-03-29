@@ -33,5 +33,4 @@ Run the python file as follow:
 ```bash
 python query_pdf.py
 ```
-
-Enter the pdf name you want to process, without the .pdf extension. Start querying the pdf by asking questions about it in natural language!
+Choose a file from your directory, and start querying the pdf by asking questions about it in natural language!
