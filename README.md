@@ -1,6 +1,6 @@
 # Document Query System
 
-This Python script allows users to query information from a given PDF document using the GPT-4 language model. The system first reads and processes the document, then embeds the text using OpenAI Embeddings, and finally saves the embeddings as a pickle file. Users can continuously query the document until they choose to exit.
+This Python script allows users to query information from a given PDF document. The system first reads and processes the document, then embeds the text using OpenAI Embeddings, and finally saves the embeddings as a pickle file. Users can continuously query the document until they choose to exit.
 
 ## Features
 
